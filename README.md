@@ -6,7 +6,7 @@ Here’s a professional and concise GitHub description for your ALU project:
 
 ### 🔧 Parameterized ALU in SystemVerilog
 
-This project implements a fully parameterized **Arithmetic Logic Unit (ALU)** in **SystemVerilog**, supporting a wide range of arithmetic, logical, shift, and comparison operations. It is designed for flexibility, allowing customization of operand width and includes support for overflow detection, carry-out, and status flags.
+This project implements a fully parameterized **Arithmetic Logic Unit (ALU)** in **Verilog**, supporting a wide range of arithmetic, logical, shift, and comparison operations. It is designed for flexibility, allowing customization of operand width and includes support for overflow detection, carry-out, and status flags.
 
 #### ✅ Features:
 
